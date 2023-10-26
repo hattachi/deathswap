@@ -1,0 +1,7 @@
+name: Ddeath
+version: 1.0
+main: me.flag.ddeath.Ddeath
+api-version: 1.20
+commands:
+  deathswap:
+    description: Start a DeathSwap game
